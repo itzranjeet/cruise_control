@@ -1,0 +1,15 @@
+float64 velocity
+float64 desired_acceleration
+string algorithmnodeoutputmessagetopic
+string algorithmnodeoutputmessagequeuesize
+string stubnodeoutputmessagetopic
+string string stubnodeoutputmessagequeuesize
+float64 cruisespeed
+float64 threshold
+float64 torque
+float64 gearratio
+float64 tireradius
+float64 inchtofeet
+float64 massofcar
+float64 gravityperfeetsquare
+float64 constantmphconvert

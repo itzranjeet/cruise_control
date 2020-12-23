@@ -1,0 +1,21 @@
+{
+"AlgorithmNode":{
+    "AlgorithmNodeOutputMessageTopic":"algorithm_node",
+    "AlgorithmNodeOutputMessageQueueSize": "10",
+    "CruiseSpeed": "60.0"
+
+},
+
+"StubNode":{
+    "threshold":"15.0",
+    "StubNodeOutputMessageTopic": "stub_node",
+    "StubNodeOutputMessageQueueSize": "10.0",
+    "Torque": "100.0",
+    "GearRatio": "6.0",
+    "TireRadius": "12.0",
+    "InchtoFeet": "12.0",
+    "MassOfCar": "2500.0",
+    "GravityPerFeetSquare": "32.2",
+    "ConstantMPHConvert": "0.6818"
+}
+}

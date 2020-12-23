@@ -1,0 +1,21 @@
+rosbag2_bagfile_information:
+  version: 2
+  storage_identifier: sqlite3
+  relative_file_paths:
+    - Rosbag/Rosbag_0.db3
+  duration:
+    nanoseconds: 88017407640
+  starting_time:
+    nanoseconds_since_epoch: 1595588042932787889
+  message_count: 90
+  topics_with_message_count:
+    - topic_metadata:
+        name: /stub_node
+        type: cruise_control/msg/AddressBook
+        serialization_format: cdr
+      message_count: 45
+    - topic_metadata:
+        name: /algorithm_node
+        type: cruise_control/msg/AddressBook
+        serialization_format: cdr
+      message_count: 45
